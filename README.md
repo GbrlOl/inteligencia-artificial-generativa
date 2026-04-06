@@ -1,3 +1,3 @@
-# Inteligencia Artificial Generativa
+# **Inteligencia Artificial Generativa**
 
-Falta escribir
+Repositorio en construcción...
